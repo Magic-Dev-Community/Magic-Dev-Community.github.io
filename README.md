@@ -14,7 +14,6 @@ Status: Let's Get Started!
     <tr>
       <th>Date</th>
       <th>Topic</th>
-      <th>Link</th>
       <th>Presenter</th>
     </tr>
   </thead>
