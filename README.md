@@ -5,7 +5,7 @@ Community authored apps, components, tips and tricks, and all-round goodness for
 
 Status: Let's Get Started!
 
-GitHub: [Magic-Dev-Community](https://github.com/Magic-Dev-Community)
+### GitHub: [Magic-Dev-Community](https://github.com/Magic-Dev-Community)
 ---
 
 ### Community Zoom Call Archive
